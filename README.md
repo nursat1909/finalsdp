@@ -1,1 +1,2 @@
-# Final Project Mobile Development 2 (Android) by Nursat Abdullayev
+# Final Project Mobile Development 2 (Android)
+by Nursat Abdullayev
